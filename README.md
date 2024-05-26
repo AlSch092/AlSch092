@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**AlSch092/AlSch092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile page!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Ultimate AntiCheat](https://github.com/AlSch092/UltimateAnticheat) and reversing netcode of online games
+- 🌱 I’m currently learning sysinternals
+- 👯 I’m looking to collaborate on open-source projects & contribute to companies 
+- 📫 How to reach me: [aschwarz92@outlook.com](mailto:aschwarz92@outlook.com)
+
+## My GitHub Stats
+
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlSch092&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlSch092&layout=compact&theme=radical)
