@@ -8,7 +8,7 @@ Welcome to my GitHub profile page!
 - 🌱 I’m currently learning sysinternals
 - 👯 I’m looking to collaborate on open-source projects or contribute to a company
 - 📫 How to reach me: [aschwarz92@outlook.com](mailto:aschwarz92@outlook.com)
-- If you'd like a headless bot made for your game for the sake of load testing or security tooling, please send me an email.
+- If you'd like a headless client made for your game for the sake of load testing or security tooling, please send me an email.
 
 ## Top Languages
 
