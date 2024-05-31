@@ -10,4 +10,6 @@ Welcome to my GitHub profile page!
 
 ## Top Languages
 
+- Mainly coding in C/C++ (with the help of assembler), but use C# for networking-related tasks.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlSch092&layout=compact&theme=radical)
