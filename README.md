@@ -1,12 +1,8 @@
-## Hi there 👋
-
 Welcome to my GitHub profile page!
 
 ## About Me
 
-- 👯 I’m looking to collaborate on projects or contribute to a company
-- I enjoy reversing netcode of online games and building client emulators/clientless bots.
-- Usermode enjoyer
+- I’m looking to collaborate on projects or contribute to a company's security efforts
 - 📫 How to reach me: [aschwarz92@outlook.com](mailto:aschwarz92@outlook.com)
 
 ## Languages
