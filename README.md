@@ -6,4 +6,4 @@ Inquiries: 📫[aschwarz92@outlook.com](mailto:aschwarz92@outlook.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlSch092&layout=compact&theme=radical)  
 
-Hoping you the best success and luck in your  journey
+Wishing you the best luck & success in your  programming or security journey!
