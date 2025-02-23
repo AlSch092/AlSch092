@@ -1,4 +1,4 @@
-Game Security, anti-cheat, network emulation. C++ enjoyer
+Game Security, anti-cheat, network replication. C++ enjoyer
 
 Inquiries: 📫[aschwarz92@outlook.com](mailto:aschwarz92@outlook.com)
 
